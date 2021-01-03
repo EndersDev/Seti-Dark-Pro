@@ -1,5 +1,5 @@
 {
-	"name": "Seti Dark Pro",
+	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#000000",
@@ -46,6 +46,7 @@
 		"terminal.selectionBackground": "#abb2bf30",
 		"titleBar.activeBackground": "#000000",
 		"titleBar.inactiveBackground": "#101010",
+		
 	},
 	"tokenColors": [
 		{

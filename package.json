@@ -2,8 +2,8 @@
 	"name": "seti-dark-pro",
 	"displayName": "Seti Dark Pro",
 	"publisher": "EndersDev",
-	"description": "This is a simple theme for VSCode, forked from seti-black and One-Dark-Pro themes. ",
-	"version": "0.1.0",
+	"description": "This is a simple theme for VSCode, forked from seti-black and One Dark Pro themes. ",
+	"version": "0.1.2",
 	"repository": "https://github.com/EndersDev/Seti-Dark-Pro",
 
 	"engines": {
