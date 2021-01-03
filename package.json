@@ -1,23 +1,21 @@
 {
-    "name": "seti-black",
-    "displayName": "Seti-Black",
-    "publisher": "bobsparadox",
-    "description": "",
-    "version": "0.0.6",
-    "repository": "https://github.com/bobsparadox/seti-black",
-    "engines": {
-        "vscode": "^1.39.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Seti Black",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Seti Black-color-theme.json"
-            }
-        ]
-    }
+	"name": "seti-dark-pro",
+	"displayName": "Seti Dark Pro",
+	"description": "This is a simple theme for VSCode, forked from seti-black and One-Dark-Pro themes. ",
+	"version": "0.1.0",
+	"repository": "https://github.com/EndersDev/Seti-Dark-Pro",
+
+	"engines": {
+		"vscode": "^1.52.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [{
+			"label": "Seti Dark Pro",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Seti Dark Pro-color-theme.json"
+		}]
+	}
 }
