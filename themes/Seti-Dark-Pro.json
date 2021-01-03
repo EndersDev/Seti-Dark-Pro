@@ -228,7 +228,42 @@
 			"settings": {
 				"foreground": "#E6DB74"
 			}
-		}
+		},
+		{
+      "name": "js/ts punctuation separator key-value",
+      "scope": "punctuation.separator.key-value",
+      "settings": {
+        "foreground": "#abb2bf"
+      }
+    },
+    {
+      "name": "js/ts import keyword",
+      "scope": "keyword.operator.expression.import",
+      "settings": {
+        "foreground": "#61afef"
+      }
+    },
+    {
+      "name": "math js/ts",
+      "scope": "support.constant.math",
+      "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "math property js/ts",
+      "scope": "support.constant.property.math",
+      "settings": {
+        "foreground": "#d19a66"
+      }
+    },
+    {
+      "name": "js/ts variable.other.constant",
+      "scope": "variable.other.constant",
+      "settings": {
+        "foreground": "#e5c07b"
+      }
+    },
 	],
 	"colors": {
 		"editor.background": "#000000",
@@ -255,5 +290,5 @@
 		"menu.background": "#000000",
 		"input.background": "#000000"
 	},
-	"name": "Seti Black"
+	"name": "Seti-Dark-Pro"
 }
